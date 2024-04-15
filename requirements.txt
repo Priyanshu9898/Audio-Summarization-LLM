@@ -1,0 +1,8 @@
+pipwin
+pyaudio
+google-generativeai
+python-dotenv
+streamlit
+ipython
+textwrap3
+-e .
