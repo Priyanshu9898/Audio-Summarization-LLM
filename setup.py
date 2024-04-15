@@ -6,6 +6,6 @@ setup(
     author="Priyashu",
     author_email="priyanshumalaviya9@gmail.com",
     packages=find_packages(),
-    install_requires=["pipwin", "pyaudio",
+    install_requires=["pipwin",
                       "google-generativeai", "python-dotenv", "streamlit"]
 )

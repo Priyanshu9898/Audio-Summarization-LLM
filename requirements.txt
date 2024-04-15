@@ -1,5 +1,4 @@
 pipwin
-pyaudio
 google-generativeai
 python-dotenv
 streamlit
